@@ -11,13 +11,13 @@ This project practices Python fundamentals such as user input, conditional state
 - Displays total using an f-string  
 
 ## Example Run used in testing
-
+```
 Enter pizza size (small or large): large
 Enter the number of toppings: 2
 Enter delivery distance in miles: 60
 
 Your total pizza order cost is: $71
-
+```
 
 ## Technologies Used
 - Python 3.x (no external libraries required)
